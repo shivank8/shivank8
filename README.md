@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivank Verma Software Engineer - I @Hashedin By Deloitte
 - 👀 I’m interested in Android Development and Backend Development
-- 🌱 I’m currently learning Backend Development in Python Django
+- 🌱 I’m currently learning Generative AI.
 - 💞️ I’m looking to collaborate on Android development
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-shivank8-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivank8)
 - Android Arctic: <a href="https://www.youtube.com/channel/UCr7Sbr9I8LTJehEOqS2GS6A?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
